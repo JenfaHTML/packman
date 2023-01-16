@@ -1,0 +1,13 @@
+.game {
+    position: relative;
+   top: 500px;
+  
+  }
+  
+  footer {
+      position: absolute;    
+      bottom:0px;
+      right:0%;
+      left: 0%;
+    top: 500;
+    }
